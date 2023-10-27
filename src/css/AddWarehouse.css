@@ -1,0 +1,53 @@
+/* src/components/AddWarehouse.css */
+
+/* Style for the container */
+div{
+    align-items: center;
+    margin-left: 18px;
+    margin-bottom: 5px;
+}
+.container {
+    align-items: center;
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 900px;
+    /* margin: 0 auto; */
+    margin-left: 200px;
+  }
+  
+  
+  /* Style for labels */
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Style for input fields */
+  input {
+    margin-left: 5px;
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style for the submit button */
+  button {
+    margin-top: 40px;
+    margin-left: 5px;
+    background-color: #7596ba;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style for the submit button on hover */
+  button:hover {
+    background-color:#007bff ;
+  }
+  
